@@ -1,11 +1,28 @@
-Git ve cada archivo de tu copia de trabajo de una de las siguientes maneras:
+El archivo .gitignore, es un archivo de texto que le dice a Git qué archivos o carpetas ignorar en un proyecto.
+Un archivo local .gitignore generalmente se coloca en el directorio raíz de un proyecto. 
+También puedes crear un archivo global .gitignore, y cualquier entrada en ese archivo se ignorará en todos tus repositorios de Git.
 
-1. Con seguimiento: Un archivo que se ha preparado o confirmado previamente.
+Los archivos ignorados suelen ser artefactos de compilación y archivos generados por el equipo que pueden derivarse de tu fuente de 
+repositorios o que no deberían confirmarse por algún otro motivo. 
 
-2. Sin seguimiento: Un archivo que no se ha preparado o confirmado.
+En Git no hay ningún comando explícito para ignorar archivos: en su lugar, cuando tengas nuevos archivos que quieras ignorar, deberás 
+editar y confirmar manualmente el archivo .gitignore. 
+Los archivos .gitignore contienen patrones que establecen coincidencias con los nombres de archivo de tu repositorio para determinar
+si deberían ignorarse o no.
 
-3. Ignorado: Un archivo que se le ha indicado explícitamente a Git que ignore.
+ejemplo de como se veria esta carpeta
 
-Los archivos ignorados suelen ser artefactos de compilación y archivos generados por el equipo que pueden derivarse de tu fuente de repositorios o que no deberían confirmarse por algún otro motivo. 
+# Ignora archivos del sistema Mac 
+.DS_store
 
-A los archivos ignorados se les hace un seguimiento en un archivo especial llamado .gitignore que se incorpora en la raíz de tu repositorio. En Git no hay ningún comando explícito para ignorar archivos: en su lugar, cuando tengas nuevos archivos que quieras ignorar, deberás editar y confirmar manualmente el archivo .gitignore. Los archivos .gitignore contienen patrones que establecen coincidencias con los nombres de archivo de tu repositorio para determinar si deberían ignorarse o no.
+# Ignora la carpeta node_modules
+node_modules
+
+# Ignora todos los archivos de texto
+*.txt
+
+# Ignora los archivos relacionados a API keys
+.env
+
+# Ignora archivos de configuración SASS
+.sass-cache
