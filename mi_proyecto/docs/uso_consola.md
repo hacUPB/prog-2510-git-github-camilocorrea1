@@ -1,21 +1,21 @@
 # Comandos para navegar y crear directorios y archivos.
 
-- pwd: Muestra la ruta completa del directorio actual.
+- _pwd_: Muestra la ruta completa del directorio actual.
 
-- ls: Lista los archivos y directorios en el directorio actual.
+- _ls_: Lista los archivos y directorios en el directorio actual.
 
-- ls -al: Muestra archivos y directorios con información detallada, también incluye archivos ocultos.
+- _ls -al_: Muestra archivos y directorios con información detallada, también incluye archivos ocultos.
 
-- cd: Cambia el directorio actual.
+- _cd_: Cambia el directorio actual.
 
-- mkdir: crea un nuevo directorio.
+- _mkdir_: crea un nuevo directorio.
 
-- touch: Crea un archivo vacío.
+- _touch_: Crea un archivo vacío.
 
-- mv: Mueve o renombra archivos y directorios.
+- _mv_: Mueve o renombra archivos y directorios.
 
-- find .: Busca archivos o directorios dentro del directorio actual y sus subdirectorios.
+- _find_ .: Busca archivos o directorios dentro del directorio actual y sus subdirectorios.
 
-- rm: Elimina archivos o directorios.
+- _rm_: Elimina archivos o directorios.
 
-- rm -r: Borra un directorio y su contenido.
+- _rm -r_: Borra un directorio y su contenido.
