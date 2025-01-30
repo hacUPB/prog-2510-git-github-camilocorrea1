@@ -20,3 +20,9 @@ Id.: 000509030
 4. Ejecutar el codigo en python, explorar la documentación.
 
 5. Realizar cambios y subirlos al repositorio con los siguientes codigos: __git status__, __git add__, __git commit -m ""__, __git push__.
+
+# Tabla de contenido
+
+[Uso consola](C:\programacion\repositorios2025\prog-2510-git-github-camilocorrea1\mi_proyecto\docs\uso_consola.md) 
+
+
