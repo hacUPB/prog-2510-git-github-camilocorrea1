@@ -9,4 +9,14 @@ Id.: 000509030
 
 - El proyecto incluye una estructura de carpetas organizadas, con documentación en formato mardown sobre el uso de la consola, el repositorio local y el remoto. También se agrega un archivo .gitignore para gestionar los archivos que deben excluirse del control de versiones.
 
+# Los pasos necesarios para clonar y ejecutar el proyecto.
 
+1. Copiar la URL del repositorio.
+
+2. Abrir la terminal y navegar hasta la carpeta donde se quiere clonar el proyecto.
+
+3. Clona el repositorio con el siguiente comando __git clone__.
+
+4. Ejecutar el codigo en python, explorar la documentación.
+
+5. Realizar cambios y subirlos al repositorio con los siguientes codigos: __git status__, __git add__, __git commit -m ""__, __git push__.
