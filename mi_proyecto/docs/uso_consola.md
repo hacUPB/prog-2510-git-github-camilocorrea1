@@ -8,7 +8,7 @@
 
 - _cd_: Cambia el directorio actual.
 
-- _mkdir_: crea un nuevo directorio.
+- _mkdir_: Crea un nuevo directorio.
 
 - _touch_: Crea un archivo vacío.
 

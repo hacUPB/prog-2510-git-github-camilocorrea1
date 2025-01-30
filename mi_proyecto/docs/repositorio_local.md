@@ -11,7 +11,7 @@ Esto genera un subdirectorio oculto llamado .git que contiene toda la informaci√
 
 ## 3. Agregar archivos a la zona "stage".
 
-Usando el comando __git add__ podemos agregar los archivos del directorio a la zona de "stage" para que Git los rastree.
+Usando el comando __git add__ puedes agregar los archivos del directorio a la zona de "stage" para que Git los rastree.
 
 ## 4. Confirmar los cambios en el repositorio.
 
