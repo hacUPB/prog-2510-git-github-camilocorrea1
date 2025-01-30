@@ -20,10 +20,13 @@
 
 1. Abrir el Git bash y dirigirse a la carpeta del repositorio.
 
-2. Agregar el repositorio remoto con la URL copiada, un ejemplo de este: __git remote add origin https://github.com/henryandr/Prog_Eval_Template.git__.
+2. Agregar el repositorio remoto con la URL copiada, un ejemplo de este:
+```bash
+git remote add origin https://github.com/henryandr/Prog_Eval_Template.git
+```
 
-3. Verificar que se haya agregado correctamente con el siguiente comando __git remote -v__.
+4. Verificar que se haya agregado correctamente con el siguiente comando __git remote -v__.
 
-4. Subir la información al repositorio remoto con el siguiente comando __git push origin main__.
+5. Subir la información al repositorio remoto con el siguiente comando __git push origin main__.
 
 
