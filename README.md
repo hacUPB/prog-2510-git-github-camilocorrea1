@@ -25,4 +25,7 @@ Id.: 000509030
 
 [Uso consola](C:\programacion\repositorios2025\prog-2510-git-github-camilocorrea1\mi_proyecto\docs\uso_consola.md) 
 
+[Repositorio local](C:\programacion\repositorios2025\prog-2510-git-github-camilocorrea1\mi_proyecto\docs\repositorio_local.md)
+
+[Repositorio remoto](C:\programacion\repositorios2025\prog-2510-git-github-camilocorrea1\mi_proyecto\docs\repositorio_remoto.md)
 
