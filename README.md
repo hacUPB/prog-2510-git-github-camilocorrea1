@@ -23,9 +23,9 @@ Id.: 000509030
 
 # Tabla de contenido
 
-[Uso consola](mi_proyecto\docs\uso_consola.md)               
+[Uso consola](mi_proyecto/docs/uso_consola.md)               
                                                                 
-[Repositorio local](mi_proyecto\docs\repositorio_local.md)
+[Repositorio local](mi_proyecto/docs/repositorio_local.md)
 
-[Repositorio remoto](mi_proyecto\docs\repositorio_remoto.md)
+[Repositorio remoto](mi_proyecto/docs/repositorio_remoto.md)
 
