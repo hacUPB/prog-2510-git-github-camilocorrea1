@@ -19,3 +19,11 @@
 - _rm_: Elimina archivos o directorios.
 
 - _rm -r_: Borra un directorio y su contenido.
+
+# Imagenes de ejemplo.
+
+![Creación de archivos y commit](<../images/creacion de archivos y commit.png>)
+
+
+
+
